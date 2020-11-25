@@ -2,7 +2,7 @@
 ***Seq2Seq Model***
 
 Now a days, in every field feedback is very important. If someone's review is very long and descriptive, it will time consuming to analyze it manually.
-So what this application do, it takes the review as an input and generate the summary in few words. <br />
+So what this application do, it takes the review as an input and generate the summary of few words. <br />
 
 ## Datasets
 I've trained the model on Amazon Fine Food Reviews dataset, you can to download this dataset from [here](https://www.kaggle.com/snap/amazon-fine-food-reviews).
