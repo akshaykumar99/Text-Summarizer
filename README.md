@@ -1,7 +1,7 @@
 # Text Summarizer
 ***Seq2Seq Model***
 
-Now a days, in every field feedback is very important. If someone's review is very long and descriptive, it will time consuming to analyze it manually.
+Now a days, in every field feedback is very important. If someone's review/feedback is very long and descriptive, it will be time consuming to analyze it manually.
 So what this application do, it takes the review as an input and generate the summary of few words. <br />
 
 ## Datasets
